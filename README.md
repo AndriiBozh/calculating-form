@@ -1,4 +1,4 @@
-# calculating-form
+# calculation-form
 
 This is an assignment for joining internship program.
 
