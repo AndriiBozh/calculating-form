@@ -4,6 +4,8 @@ const selectEl = document.getElementById('math-operators')
 const calculateBtn = document.getElementById('calculate-btn')
 const display = document.getElementById('result')
 
+alert('Мы проверили ваше тестовое и верим, что в IT вы добьетесь успехов! Но чтоб вы не сомневались, создали этот fork :) Компания Maklai');
+
 let result = 0;
 
 function calculate() {
